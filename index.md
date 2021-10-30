@@ -4,8 +4,6 @@ humanity has seen fit to prepare the beloved starchy tuber for consumption. As
 with taxonomy of biological organisms, our understanding of frylogeny is
 constantly evolving, and as such, this is a living document.
 
-# Genera 
-
 There are three general potato preparation categories: *whole*, *cut*, and
 *mashed*.   
 
