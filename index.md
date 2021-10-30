@@ -4,20 +4,48 @@ humanity has seen fit to prepare the beloved starchy tuber for consumption. As
 with taxonomy of biological organisms, our understanding of frylogeny is
 constantly evolving, and as such, this is a living document.
 
-## Genera 
+# Genera 
 
 There are three general potato preparation categories: *whole*, *cut*, and
 *mashed*.   
 
 
-### Whole
+## Whole
 
-### Cut
+#### Baked
 
-#### Cuts along the major potato axis
+#### Twice-Baked
 
-#### Cuts along the minor potato axis
+## Cut
 
-#### Chopped
+### *Cuts along the major axis of potato ellipsoid*
 
-### Mashed
+#### Steak
+
+#### Curly
+
+#### Shoelace
+
+#### Boardwalk
+
+#### Jo-Jos
+
+#### Crinkle-Cut
+
+### *Cuts along the minor axis of potato ellipsoid*
+
+#### Chips (American)
+
+#### Waffle
+
+#### Scalloped 
+
+### *Chopped*
+
+## Mashed
+
+#### Mashed
+
+#### Powdered
+
+#### Pringles
