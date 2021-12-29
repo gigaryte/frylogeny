@@ -4,46 +4,51 @@ humanity has seen fit to prepare the beloved starchy tuber for consumption. As
 with taxonomy of biological organisms, our understanding of frylogeny is
 constantly evolving, and as such, this is a living document.
 
-There are three general potato preparation categories: *whole*, *cut*, and
-*mashed*.   
-
+There are two general potato preparation categories - *whole* and *cut* - and
+a miscellaneous, catch-all category for those potato varietals that defy our
+current understanding of potato preparation categorization.
 
 ## Whole
 
-#### Baked
+- Baked
 
-#### Twice-Baked
+- Boiled
 
 ## Cut
 
-### *Cuts along the major axis of potato ellipsoid*
+##### *Cuts along the major axis of potato ellipsoid*
 
-#### Steak
+- Steak
 
-#### Curly
+- Curly
 
-#### Shoelace
+- Shoelace
 
-#### Boardwalk
+- Boardwalk
 
-#### Jo-Jos
+- Jo-Jos
 
-#### Crinkle-Cut
+- Crinkle-Cut
 
-### *Cuts along the minor axis of potato ellipsoid*
+- Twice-Baked
 
-#### Chips (American)
+##### *Cuts along the minor axis of potato ellipsoid*
 
-#### Waffle
+- Chips (American)
 
-#### Scalloped 
+- Waffle
 
-### *Chopped*
+- Scalloped 
 
-## Mashed
+- Hasselback potatoes
 
-#### Mashed
+## Miscellaneous
 
-#### Powdered
+- Mashed
 
-#### Pringles
+- Powdered
+
+    - Instant 
+
+    - Pringles
+
