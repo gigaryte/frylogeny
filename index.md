@@ -41,7 +41,7 @@ current understanding of potato preparation categorization.
 
 - Hasselback potatoes
 
-#### *Rotational cuts*
+##### *Rotational cuts*
 
 - Curly
 
