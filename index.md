@@ -20,7 +20,6 @@ current understanding of potato preparation categorization.
 
 - Steak
 
-- Curly
 
 - Shoelace
 
@@ -41,6 +40,12 @@ current understanding of potato preparation categorization.
 - Scalloped 
 
 - Hasselback potatoes
+
+#### *Rotational cuts*
+
+- Curly
+
+- Spiralized
 
 ## Miscellaneous
 
